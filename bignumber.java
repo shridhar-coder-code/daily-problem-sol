@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class big {
-    public void main(int a, int b, int c) {
+    public void Main(int a, int b, int c) {
         play(a, b, c);
     }
 
@@ -31,7 +31,7 @@ class big {
 }
 
 public class bignumber {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("enter the first number :");
         int a = in.nextInt();
