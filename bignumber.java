@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class big {
-    public void Main(int a, int b, int c) {
+    void huge(int a, int b, int c) {
         play(a, b, c);
     }
 
