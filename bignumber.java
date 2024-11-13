@@ -41,7 +41,7 @@ public class bignumber {
         int c = in.nextInt();
 
         big g = new big();
-        g.main(a, b, c);
+        g.huge(a, b, c);
         
         in.close();
 
