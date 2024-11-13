@@ -31,7 +31,7 @@ class big {
 }
 
 public class bignumber {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("enter the first number :");
         int a = in.nextInt();
