@@ -19,7 +19,7 @@ public class repeated {
         
         for(i=0;i<=100;i++){
         if (count[i] >= 1) {
-            System.out.println("the number " + arr[i] + " is repeated " + count[i] + " times.");
+            System.out.println("the number " + i + " is repeated " + count[i] + " times.");
         }
        
     }
